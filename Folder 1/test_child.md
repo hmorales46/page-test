@@ -2,7 +2,7 @@
 layout: default
 title: Child Title
 nav_order: 2
-parent: test
+parent: Title
 ---
 
 # Child Title
