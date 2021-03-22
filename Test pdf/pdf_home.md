@@ -8,3 +8,4 @@ has_toc: false
 
 Here we add a pdf file for testing purposes
 
+![](/gh-pages/Test%20pdf/dummy.pdf)
